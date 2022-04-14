@@ -1,6 +1,6 @@
 # Hi! Welcome to my page 👋
 
-<div align="left">
+<div align="right">
      <img alt="gif" src="https://github.com/RileytheCoder/RileytheCoder/blob/main/assets/pino-ergo-proxy.gif">
 </div>
 
