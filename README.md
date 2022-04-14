@@ -1,7 +1,10 @@
 # Hi! Welcome to my page 👋
 
-<div align="left"
-     <img 
+<div align="left">
+     <img alt="gif" src="">
+</div>
+
+<br>
 <!--
 **RileytheCoder/RileytheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
