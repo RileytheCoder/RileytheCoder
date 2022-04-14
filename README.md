@@ -1,7 +1,7 @@
 # Hi! Welcome to my page 👋
 
-<div align="right">
-     <img alt="gif" src="https://github.com/RileytheCoder/RileytheCoder/blob/main/assets/pino-ergo-proxy.gif">
+<div>
+     <img alt="gif" src="https://github.com/RileytheCoder/RileytheCoder/blob/main/assets/pino-ergo-proxy.gif" align="left">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
