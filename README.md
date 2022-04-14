@@ -1,5 +1,5 @@
 <header>
-     <img src=""
+     <img src="https://github.com/RileytheCoder/RileytheCoder/blob/main/assets/Welcome!.gif">
 </header>
 ## About me!
 <div>
