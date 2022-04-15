@@ -15,7 +15,6 @@
           </div>
           <div>
           <h1></h1>
-               ![RileytheCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileytheCoder&show_icons=true&theme=radical)
           </div>
 
 
