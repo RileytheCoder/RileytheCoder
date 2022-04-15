@@ -15,7 +15,7 @@
           </div>
           <div>
           <h1></h1>
-               [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RileytheCoder&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+               ![RileytheCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileytheCoder&show_icons=true&theme=radical)
           </div>
 
 
